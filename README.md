@@ -35,13 +35,9 @@ pip install -r requirements.txt
 ## Author
 
 - Zahid Parviz
-- GitHub: [zahidparviz](https://github.com/zahidparviz)
+- GitHub: [zahidparviz](https://github.com/zahidprvz)
 
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
-
-Note: If you have a `requirements.txt` file containing the required dependencies, you can include it in your project repository.
